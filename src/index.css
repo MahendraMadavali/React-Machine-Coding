@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header {
+  margin-top: 20px;
+}
+.container{
+  height: 400px;
+  border: 1px solid gray;
+  margin: auto;
+  width: 50%;
+  margin-top: 40px;
+  padding: 10px;
+
+}
+
+.chechbox-row{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: auto;
+  border: 1px solid #fdfafa;
+  margin-bottom: 2px;
+}
+.Buttons-row{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: auto;
+  /* justify-content: center; */
+}
+.Buttons-row button{
+  margin-right: 10px;
+}
+.single-checkbox{
+  margin-right: 20px;
+}

@@ -1,0 +1,5 @@
+1. Create a 5 checkboxes with some titles
+2. Below that Create a 2 buttons to select All / Deselect all the checkboxes
+3. below the buttons show the no of checkboxes you have selected.
+
+node 
